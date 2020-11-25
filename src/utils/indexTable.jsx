@@ -18,8 +18,8 @@ export default class IndexTable extends React.Component {
         return (
             <div className="container mt-2">
                 <div style={{padding: 20}}className="text-center text-muted add-space">
-                    <h1 style={{color: "crimson"}}>Algorithm Design and Analysis Project</h1>
-                    <h5 style={{color: "#f46386"}}>quote</h5>
+                    <h1 style={{color: "darkslategray"}}>Algorithm Design and Analysis Project</h1>
+                    <h5 style={{color: "#f46386"}}>Learning an algorithm gets much easier with visualizing it</h5>
                 </div>
 
                 <center>
